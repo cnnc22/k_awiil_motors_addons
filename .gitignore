@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.bak
+.DS_Store
+.idea/
+*.iml
+__pycache__/
+*.log
+*.egg-info/
+*.db
