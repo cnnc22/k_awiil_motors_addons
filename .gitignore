@@ -1,0 +1,54 @@
+# ===============================
+# Python
+# ===============================
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+*.eggs/
+*.manifest
+*.spec
+
+# ===============================
+# Logs y dumps
+# ===============================
+*.log
+*.sql
+*.sqlite
+*.dump
+*.bak
+
+# ===============================
+# Archivos de sistema y temporales
+# ===============================
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# ===============================
+# Entornos virtuales y dependencias
+# ===============================
+.env
+.env.*
+.venv/
+venv/
+pip-wheel-metadata/
+
+# ===============================
+# IDEs y editores
+# ===============================
+.vscode/
+.idea/
+
+# ===============================
+# Traducciones
+# ===============================
+*.mo
+*.pot
+
+# ===============================
+# Docker (si usas)
+# ===============================
+docker-compose.override.yml
